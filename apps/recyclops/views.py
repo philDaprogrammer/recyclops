@@ -1,5 +1,5 @@
 from flask import Blueprint, request, Response
-from apps.recyclops.models import locations
+from apps.recyclops.models import centers
 from DAO.database import db
 import json
 import csv
@@ -76,18 +76,12 @@ is complete
 """
 @recyclopsApp.post("/insertTable")
 def createCenters():
-    with open("/home/phil/PycharmProjects/442/recyclops/db.csv") as f:
+    with open("/home/phil/PycharmProjects/442/recyclops/location.csv") as f:
         reader = csv.reader(f)
+        next(reader)
 
         for line in reader:
-            if "," in line[3]:
-                coord = line[3].lstrip().split(",")
-            elif " " in line[3]:
-                coord = line[3].lstrip().split(" ")
-            else:
-                continue
-
-            db.session.add(locations(line[1], float(coord[0]), float(coord[1])))
+            db.session.add(centers(line[0], float(line[1]), float(line[1])))
             db.session.commit()
 
     return Response(json.dumps({"message": "Insertions successful!"}), status=200, mimetype="application/json")

@@ -17,7 +17,7 @@ exists. With that, all defined columns also
 need to be declared as class variables. 
 """
 
-class locations(db.Model):
+class centers(db.Model):
     name = sa.Column(sa.String, primary_key=True)
     lat  = sa.Column(sa.FLOAT)
     lng  = sa.Column(sa.FLOAT)

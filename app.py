@@ -15,7 +15,7 @@ def main():
     # - register all app blue prints
     app.register_blueprint(recyclopsApp)
     # - initialize the database connection
-    database.db_init(app, "asap", "$PokerCh1p1234", "recyclops")
+    database.db_init(app, "asap", "A$AP", "recyclops")
     # - run the application
     app.run()
 
