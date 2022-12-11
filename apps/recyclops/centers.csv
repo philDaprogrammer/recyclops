@@ -1,0 +1,178 @@
+Row Number,Company,Material
+1,Superior Pallets,Pallets
+2,Irish Propane,Propane tanks
+3,Medaille College (Lobby of Public Saftey Building),Pharmaceuticals
+4,North Campus (Lobby-Pub Saftey Bldg),Pharmaceuticals
+5,Rath Building,Pharmaceuticals
+6,South Campus (Lobby-Student Loans),Pharmaceuticals
+7,Springville Town Hall,Pharmaceuticals
+8,Valu Auto Care,Antifreeze
+9,MRC Recycling Inc.,Appliances
+10,MRC Recycling Inc.,Cardboard-OCC
+11,MRC Recycling Inc.,Electronics
+12,MRC Recycling Inc.,Metal
+13,MRC Recycling Inc.,Paper
+14,MRC Recycling Inc.,Plastics
+15,R & R Salvage,Appliances
+16,R & R Salvage,Batteries
+17,R & R Salvage,Rechargable
+18,R & R Salvage,Metal
+19,Shred Nations,Paper
+20,Shred Nations,Shredding
+21,Shred Nations,Services
+22,Shred-It,Shredding Services
+23,Amherst-Hamburg Radiator,Antifreeze
+24,Arthur's Executive Cleaners,Coathangers
+25,Auto Recyclers of William Street,Automobiles
+26,Buffalo ReUse,Building Materials
+27,"Burgio's TV SVC, Inc.",Electronics
+28,"Canisius College (Bosch Building, Lobby of Pub. Security Building)",Pharmaceuticals
+29,Cell Phone Recycling Program,Cell
+30,Cell Phone Recycling Program,Phones
+31,Cell Phone Recycling Program,Electronics
+32,City Campus (Lobby),Pharmaceuticals
+33,City East side transfer station,Building Materials
+34,City of Buffalo/Geiter Done of WNY Inc.,Yard Waste
+35,Clarence Town Hall,Pharmaceuticals
+36,Colden Town Hall,Pharmaceuticals
+37,Colvin Cleaners,Clothing-Textiles
+38,Colvin Cleaners,Coathangers
+39,Colvin Cleaners,Plastics
+40,ECMC,Pharmaceuticals
+41,Elma Town Hall,Pharmaceuticals
+42,Elwood Fire,Fire Extinguisher
+43,Elwood Fire,Smoke Detector
+44,Erie County Department of Health,Pharmaceuticals
+45,Erie County Sheriff's Office,Pharmaceuticals
+46,Grand Island Town Hall,Pharmaceuticals
+47,Hearts for the Homeless,Clothing-Textiles
+48,Ladies of Charity,Appliances
+49,Ladies of Charity,Clothing-Textiles
+50,Ladies of Charity,Toys
+51,"Lifetime Service Center, Inc.",Electronics
+52,Lowes,Batteries
+53,Lowes,Rechargable
+54,Lowes,Cell
+55,Lowes,Phones
+56,Lowes,Fluorescent
+57,MAC Solutions Plus,Electronics
+58,Metzger Removal,Building Materials
+59,Niagara Metals,Metal
+60,Savers,Bicycles
+61,Savers,Clothing-Textiles
+62,Savers,Electronics
+63,Savers,Furniture
+64,Savers,Toys
+65,Triad Recycling,Batteries
+66,Triad Recycling,Rechargable
+67,Triad Recycling,Building
+68,Triad Recycling,Materials
+69,Triad Recycling,Cardboard-OCC
+70,Triad Recycling,Carpets-Rugs
+71,Triad Recycling,CFC-Freon
+72,Triad Recycling,Electronics
+73,Triad Recycling,Mattresses
+74,Triad Recycling,Plastics
+75,Triad Recycling,Propane
+76,Triad Recycling,tanks
+77,UB Bissel Hall North Campus (Police Station),Pharmaceuticals
+78,Union Transfer,Building Materials
+79,Urban Valet,Coathangers
+80,"Jon Rosen Systems, Inc.",Batteries
+81,"Jon Rosen Systems, Inc.",Rechargable
+82,"Jon Rosen Systems, Inc.",Electronics
+83,"Jon Rosen Systems, Inc.",Metal
+84,Frey Electric,Batteries
+85,Frey Electric,Rechargable
+86,Frey Electric,Electronics
+87,Frey Electric,Fluorescent
+88,Frey Electric,Mercury
+89,Frey Electric,devices
+90,Environmental Service Group,Batteries
+91,Environmental Service Group,Rechargable
+92,Environmental Service Group,Electronics
+93,Environmental Service Group,Fluorescent
+94,Environmental Service Group,Metal
+95,Twin Village Recycling,Appliances
+96,Twin Village Recycling,Automobiles
+97,Twin Village Recycling,Batteries
+98,Twin Village Recycling,Rechargable
+99,Twin Village Recycling,Metal
+100,All Appliances Parts and Service,Appliances
+101,All Appliances Parts and Service,CFC-Freon
+102,Sunnking,Electronics
+103,Apple Store,Batteries
+104,Apple Store,Rechargable
+105,Apple Store,Cell
+106,Apple Store,Phones
+107,Apple Store,Electronics
+108,Bra Recycling,Clothing-Textiles
+109,Modern Disposal Services,Cardboard-OCC
+110,Modern Disposal Services,Paper
+111,Modern Disposal Services,Plastics
+112,Advanced Technology Recycling,Electronics
+113,Buffalo City Mission Thrift Store,Clothing-Textiles
+114,Buffalo City Mission Thrift Store,Furniture
+115,Computers for Children,Electronics
+116,Go Bike Buffalo,Bicycles
+117,Habitat Restore,Appliances
+118,Habitat Restore,Building
+119,Habitat Restore,Materials
+120,Habitat Restore,Electronics
+121,Habitat Restore,Furniture
+122,Metalico Buffalo,Metal
+123,US Itek INC,Electronics
+124,Hazman,Antifreeze
+125,Hazman,Appliances
+126,Hazman,CFC-Freon
+127,Hazman,Cooking
+128,Hazman,Oil
+129,Hazman,Electronics
+130,Hazman,Fire
+131,Hazman,Extinguisher-Smoke
+132,Hazman,Detector
+133,Hazman,Fluorescent
+134,Hazman,Gas
+135,Hazman,Household
+136,Hazman,Hazardous
+137,Hazman,Waste
+138,Hazman,Mercury
+139,Hazman,devices
+140,Hazman,Motor
+141,Hazman,Oil
+142,Hazman,Propane
+143,Hazman,tanks
+144,Amvets Thrift Store,Appliances
+145,Amvets Thrift Store,Bicycles
+146,Amvets Thrift Store,Clothing-Textiles
+147,Amvets Thrift Store,Electronics
+148,Amvets Thrift Store,Furniture
+149,Amvets Thrift Store,Mattresses
+150,Amvets Thrift Store,Toys
+151,Best Buy,Batteries
+152,Best Buy,Rechargable
+153,Best Buy,Cell
+154,Best Buy,Phones
+155,Best Buy,Electronics
+156,Great Lakes Paper Corp,Building
+157,Great Lakes Paper Corp,Materials
+158,Great Lakes Paper Corp,Cardboard-OCC
+159,Great Lakes Paper Corp,Paper
+160,Marks Auto Parts,Automobiles
+161,Marks Auto Parts,Metal
+162,M&M U-Pull It,Automobiles
+163,WNY Make-A-Wish Car Donation,Automobiles
+164,Journey's End Refugee Services,Clothing-Textiles
+165,Journey's End Refugee Services,Furniture
+166,St. Vincent de Paul Society,Appliances
+167,St. Vincent de Paul Society,Automobiles
+168,St. Vincent de Paul Society,Bicycles
+169,St. Vincent de Paul Society,Clothing-Textiles
+170,St. Vincent de Paul Society,Furniture
+171,St. Vincent de Paul Society,Toys
+172,"Cascades Recovery U.S., Inc.",Batteries
+173,"Cascades Recovery U.S., Inc.",Rechargable
+174,"Cascades Recovery U.S., Inc.",Cardboard-OCC
+175,"Cascades Recovery U.S., Inc.",Paper
+176,"Cascades Recovery U.S., Inc.",Plastics
+177,Empire Liberty Recycling INC.,Appliances
